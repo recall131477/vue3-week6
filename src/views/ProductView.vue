@@ -15,10 +15,7 @@
         <tbody>
           <tr>
             <td style="width: 200px">
-              <div
-                :style="{ backgroundImage: `url(${product.imageUrl})` }"
-                style="height: 100px; background-size: cover; background-position: center"
-              ></div>
+              <img :src="product.imageUrl" alt="產品圖片">
             </td>
             <td>
               {{ product.title }}
@@ -110,3 +107,11 @@ export default {
   },
 };
 </script>
+
+<style lang="scss">
+img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+</style>
