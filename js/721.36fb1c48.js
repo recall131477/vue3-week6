@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue3_week6"]=self["webpackChunkvue3_week6"]||[]).push([[721],{5721:function(e,n,t){t.r(n),t.d(n,{default:function(){return k}});var c=t(6252);const r={class:"container"},s=(0,c._)("div",{class:"mt-4"},[(0,c._)("h2",{class:"text-center"},"後台產品列表")],-1),u=[s];function a(e,n){return(0,c.wg)(),(0,c.iD)("div",r,u)}var i=t(3744);const v={},f=(0,i.Z)(v,[["render",a]]);var k=f}}]);
+//# sourceMappingURL=721.36fb1c48.js.map
